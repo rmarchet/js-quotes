@@ -179,4 +179,64 @@ export const localQuotes = [
     category: "Life",
     image: "https://upload.wikimedia.org/wikipedia/commons/2/22/Eleanor_Roosevelt_portrait_1933.jpg"
   },
+  {
+    quote: "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+    author: "Ralph Waldo Emerson",
+    category: "Perseverance",
+    image: "https://upload.wikimedia.org/wikipedia/commons/d/d5/Ralph_Waldo_Emerson_ca1857_retouched.jpg"
+  },
+  {
+    quote: "The mind is everything. What you think you become.",
+    author: "Buddha",
+    category: "Philosophy",
+    image: "https://upload.wikimedia.org/wikipedia/commons/5/56/Gandhara_Buddha_%28tnm%29.jpeg"
+  },
+  {
+    quote: "Creativity is intelligence having fun.",
+    author: "Albert Einstein",
+    category: "Creativity",
+    image: "https://upload.wikimedia.org/wikipedia/commons/d/d3/Albert_Einstein_Head.jpg"
+  },
+  {
+    quote: "Programming isn't about what you know; it's about what you can figure out.",
+    author: "Chris Pine",
+    category: "Programming",
+    image: "https://m.media-amazon.com/images/S/amzn-author-media-prod/8c96ece7fdb2bca26e01267eac12c3303f58616f._SX450_.jpg"
+  },
+  {
+    quote: "The key to success is to start before you are ready.",
+    author: "Marie Forleo",
+    category: "Success",
+    image: "https://upload.wikimedia.org/wikipedia/commons/9/9b/Marie_Forleo.jpg"
+  },
+  {
+    quote: "Design is not just what it looks like and feels like. Design is how it works.",
+    author: "Steve Jobs",
+    category: "Design",
+    image: "https://upload.wikimedia.org/wikipedia/commons/f/f5/Steve_Jobs_Headshot_2010-CROP.jpg"
+  },
+  {
+    quote: "In a gentle way, you can shake the world.",
+    author: "Mahatma Gandhi",
+    category: "Inspiration",
+    image: "https://upload.wikimedia.org/wikipedia/commons/7/7a/Mahatma-Gandhi%2C_studio%2C_1931.jpg"
+  },
+  {
+    quote: "The best error message is the one that never shows up.",
+    author: "Thomas Fuchs",
+    category: "Programming",
+    image: "https://pbs.twimg.com/profile_images/1513568731419025408/vrVOYBBf_400x400.jpg"
+  },
+  {
+    quote: "When something is important enough, you do it even if the odds are not in your favor.",
+    author: "Elon Musk",
+    category: "Motivation",
+    image: "https://upload.wikimedia.org/wikipedia/commons/3/34/Elon_Musk_Royal_Society_%28crop2%29.jpg"
+  },
+  {
+    quote: "Art is not what you see, but what you make others see.",
+    author: "Edgar Degas",
+    category: "Art",
+    image: "https://upload.wikimedia.org/wikipedia/commons/0/0e/Photo_of_Edgar_Degas_by_Nadar%2C_1860.jpg"
+  }
 ];
